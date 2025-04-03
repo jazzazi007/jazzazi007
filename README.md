@@ -50,7 +50,7 @@ I specialize in **Guidance, Navigation, and Control (GNC) for UAVs** with a stro
 - 🚀 **[GNC for UAVs](https://github.com/your-repo)** – Advanced control and navigation algorithms for UAVs  
 - 🔬 **[Sensor Fusion & AI](https://github.com/your-repo)** – AI-enhanced perception for UAV autonomy  
 
-📌 _Check out more of my work:_ [GitHub Portfolio](https://github.com/your-github)  
+📌 _Check out more of my work:_ [GitHub Portfolio](https://github.com/jazzazi007?tab=repositories)  
 
 ---
 
