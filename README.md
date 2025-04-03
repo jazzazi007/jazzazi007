@@ -52,15 +52,6 @@ I specialize in **Guidance, Navigation, and Control (GNC) for UAVs** with a stro
 
 📌 _Check out more of my work:_ [GitHub Portfolio](https://github.com/jazzazi007?tab=repositories)  
 
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlJazzazi&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlJazzazi&theme=radical" width="49%"/>
-</p>
-
----
 
 ### 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-al-jazzazi-899500173/)
