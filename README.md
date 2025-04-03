@@ -46,9 +46,9 @@ I specialize in **Guidance, Navigation, and Control (GNC) for UAVs** with a stro
 ---
 
 ### 📂 Featured Projects:
-- 🛩 **[Swarm UAV Path Planning](https://github.com/your-repo)** – Real-world feasibility study for autonomous fixed-wing UAV swarms  
-- 🚀 **[GNC for UAVs](https://github.com/your-repo)** – Advanced control and navigation algorithms for UAVs  
-- 🔬 **[Sensor Fusion & AI](https://github.com/your-repo)** – AI-enhanced perception for UAV autonomy  
+- 🛩 **[Swarm UAV Path Planning]()** – Real-world feasibility study for autonomous fixed-wing UAV swarms  
+- 🚀 **[GNC for UAVs]()** – Advanced control and navigation algorithms for UAVs  
+- 🔬 **[Sensor Fusion & AI]()** – AI-enhanced perception for UAV autonomy  
 
 📌 _Check out more of my work:_ [GitHub Portfolio](https://github.com/jazzazi007?tab=repositories)  
 
