@@ -56,8 +56,8 @@ I specialize in **Guidance, Navigation, and Control (GNC) for UAVs** with a stro
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlJazzazi&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlJazzazi&theme=radical" width="49%"/>
 </p>
 
 ---
